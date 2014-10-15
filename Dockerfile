@@ -3,7 +3,7 @@
 # VERSION               1.0.0
 
 FROM debian
-MAINTAINER Niko Montonen "nikomo@nikomo.fi"
+MAINTAINER tomislacker "tomislacker@fake.github.com"
 
 RUN apt-get update
 RUN apt-get upgrade -y
