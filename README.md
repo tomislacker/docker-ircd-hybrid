@@ -1,6 +1,6 @@
 # Containerized ircd-hybrid
 
-*Originally forked from [TheNikomo / dockerfiles](https://github.com/TheNikomo/dockerfiles)
+*Originally forked from [TheNikomo / dockerfiles](https://github.com/TheNikomo/dockerfiles)*
 
 ## Container Usage
 
